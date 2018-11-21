@@ -1,28 +1,15 @@
-# curriculum
-Foobar is a Python library for dealing with word pluralization.
+# Curriculum
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## HTML Hypertext Markup Language
+1. [Introduction](#1-introduction)
+2. [Tools](#2-tools)
+3. [Syntax and Grammar](#3-syntax-and-grammar)
+4. [Typography](#4-typography)
+5. [Link](#5-link)
+6. [Graphic and Video](#6-graphic-and-video)
+7. [Table](#7-table)
+8. [Form](#8-form)
+9. [Topography](#9-topography)
+10. [HTML5](#10-html5)
+11. [Accessibility](#11-accessibility)
+12. [Project](#12-project)
